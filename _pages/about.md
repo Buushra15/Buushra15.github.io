@@ -6,7 +6,7 @@ subtitle: <a href='https://seecs.nust.edu.pk/'>Electrical Engineer</a>. Pakistan
 
 profile:
   align: right
-  image: Bushra.jpeg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Islamabad</p>
