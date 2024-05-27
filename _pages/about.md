@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://seecs.nust.edu.pk/'>Electrical Engineer</a>. Pakistan.
+subtitle: <a href='https://seecs.nust.edu.pk/'>Electrical Engineer</a>.
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Islamabad</p>
+    <p>Islamabad,</p>
     <p>Pakistan</p>
 
 news: true # includes a list of news items
